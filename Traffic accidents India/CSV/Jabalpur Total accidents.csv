@@ -1,0 +1,41 @@
+"Million Plus Cities","Cause category","Cause Subcategory","Outcome of Incident",Count
+Jabalpur,"Traffic Control","Flashing Signal/Blinker","Total number of Accidents",0
+Jabalpur,"Traffic Control",Others,"Total number of Accidents",1548
+Jabalpur,"Traffic Control","Police Controlled","Total number of Accidents",0
+Jabalpur,"Traffic Control","Stop Sign","Total number of Accidents",0
+Jabalpur,"Traffic Control","Traffic Light Signal","Total number of Accidents",0
+Jabalpur,"Traffic Control",Uncontrolled,"Total number of Accidents",1678
+Jabalpur,Junction,"Four arm Junction","Total number of Accidents",232
+Jabalpur,Junction,Others,"Total number of Accidents",1548
+Jabalpur,Junction,"Round about Junction","Total number of Accidents",18
+Jabalpur,Junction,"Staggered Junction","Total number of Accidents",216
+Jabalpur,Junction,T,"Total number of Accidents",933
+Jabalpur,Junction,Y,"Total number of Accidents",279
+Jabalpur,"Traffic Violation","Driving on Wrong side","Total number of Accidents",65
+Jabalpur,"Traffic Violation","Drunken Driving/ Consumption of alcohol and drug","Total number of Accidents",170
+Jabalpur,"Traffic Violation","Jumping Red Light","Total number of Accidents",0
+Jabalpur,"Traffic Violation",Others,"Total number of Accidents",167
+Jabalpur,"Traffic Violation",Over,"Total number of Accidents",2753
+Jabalpur,"Traffic Violation","Use of Mobile Phone","Total number of Accidents",71
+Jabalpur,"Road Features",Bridge,"Total number of Accidents",1
+Jabalpur,"Road Features",Culvert,"Total number of Accidents",18
+Jabalpur,"Road Features","Curved Road","Total number of Accidents",64
+Jabalpur,"Road Features","Ongoing Road Works/Under Construction","Total number of Accidents",1
+Jabalpur,"Road Features",Others,"Total number of Accidents",3134
+Jabalpur,"Road Features","Pot Holes","Total number of Accidents",2
+Jabalpur,"Road Features","Steep Grade","Total number of Accidents",1
+Jabalpur,"Road Features","Straight Road","Total number of Accidents",5
+Jabalpur,"Impacting Vehicle/Object","Auto Rickshaws","Total number of Accidents",204
+Jabalpur,"Impacting Vehicle/Object",Bicycles,"Total number of Accidents",8
+Jabalpur,"Impacting Vehicle/Object",Buses,"Total number of Accidents",63
+Jabalpur,"Impacting Vehicle/Object","Cars, Taxis, Vans and LMV","Total number of Accidents",624
+Jabalpur,"Impacting Vehicle/Object","Other Non","Total number of Accidents",24
+Jabalpur,"Impacting Vehicle/Object",Others,"Total number of Accidents",118
+Jabalpur,"Impacting Vehicle/Object",Pedestrian,"Total number of Accidents",9
+Jabalpur,"Impacting Vehicle/Object",Trucks/Lorries,"Total number of Accidents",271
+Jabalpur,"Impacting Vehicle/Object","Two Wheelers","Total number of Accidents",1905
+Jabalpur,Weather,"Foggy and Misty","Total number of Accidents",222
+Jabalpur,Weather,Hail/Sleet,"Total number of Accidents",0
+Jabalpur,Weather,Others,"Total number of Accidents",694
+Jabalpur,Weather,Rainy,"Total number of Accidents",205
+Jabalpur,Weather,Sunny/Clear,"Total number of Accidents",2105
